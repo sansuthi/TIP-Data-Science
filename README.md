@@ -2,6 +2,7 @@
 |        | _Task_ | _Date_ |
 | ------ | :----| :---------- |
 | _#1_ | [_Simple Linear Regression_](TASKS/%231/Description.md) | _07 September_ |
+| _#3_ | [_Exploratory Data Analysis_](TASKS/%233/Description.md) | _13 September_ |
 ---
 
 
