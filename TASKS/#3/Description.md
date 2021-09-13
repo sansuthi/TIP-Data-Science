@@ -1,4 +1,4 @@
-# _Task 3: EDA on ‘Mallcustomers’ Dataset_ 
+# _Task 3: Exploratory Data Analysis_ 
 * ### _Problem Statement:_
 #### * _Perform ‘Exploratory Data Analysis’ on dataset ‘Mallcustomers’_
 #### * _As a business manager, try to find out following:_
@@ -6,7 +6,7 @@
 > **_b) Relation between age and Spending Score and Annual Income._**  
 > **_c) Also form cluster of Annual Income vs Spending Score and give your reading accordingly._**  
 > _Dataset: https://bit.ly/3hCM1ht_
-* ### _Dataset : [Mall Customers.csv](Mall_Customers.csv)_
+* ### _Dataset : [Mall_Customers.csv](Mall_Customers.csv)_
 * ### _Implementation: [EDA_MallCustomers.ipynb](EDA_MallCustomers.ipynb)_
-* ### _LinkedIn Post: [Link]()_
+* ### _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_techedu-tip2021-tipsep21-activity-6843211847714275328-mebn)_
 ---
