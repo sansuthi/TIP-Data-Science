@@ -5,6 +5,10 @@
 |_#2_| [_Non-Linear Regression_](TASKS/%232/Description.md) | _16 September_ |
 |_#3_| [_Exploratory Data Analysis_](TASKS/%233/Description.md) | _13 September_ |
 ---
+_Selection Certificate_ |  _Completion Certificate_
+:-----------------------:|:-------------------------:
+![](CERTIFICATES/selected.png)| ![](CERTIFICATES/completed.png)
+---
 
 
 
