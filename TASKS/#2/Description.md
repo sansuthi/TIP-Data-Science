@@ -5,5 +5,4 @@
 >  _Data can be found at - https://bit.ly/2VbSEzN_
 * ### _Dataset : [china_gdp.csv](china_gdp.csv)_
 * ### _Implementation: [Non-Linear Regression.ipynb](Non-Linear%20Regression.ipynb)_
-* ### _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_techedu-tip2021-tipsep21-activity-6844305772139085824-mn0p)_
 ---
