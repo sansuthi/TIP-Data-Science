@@ -8,5 +8,4 @@
 > _Dataset: https://bit.ly/3hCM1ht_
 * ### _Dataset : [Mall_Customers.csv](Mall_Customers.csv)_
 * ### _Implementation: [EDA_MallCustomers.ipynb](EDA_MallCustomers.ipynb)_
-* ### _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_techedu-tip2021-tipsep21-activity-6843211847714275328-mebn)_
 ---
